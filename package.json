@@ -1,0 +1,16 @@
+{
+  "name": "validater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-typescript": "^6.0.0-alpha.1"
+  }
+}
